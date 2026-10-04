@@ -147,10 +147,12 @@ Team member responsibilities will be finalized during the project and documented
 
 | Member | Planned Contribution |
 |---|---|
-| Member 1 | LULC data acquisition and analysis |
-| Member 2 | Terrain and accessibility analysis |
-| Member 3 | Spatial suitability modelling and weighted overlay |
-| Member 4 | Visualization, validation and documentation |
+| Member 1 | Data Collection & Preprocessing — Collect the LULC, road, water-body and elevation data and prepare them for analysis. |
+| Member 2 | 
+
+GIS Suitability Analysis — Use the prepared data to create suitability layers and combine them to identify suitable areas.s |
+| Member 3 | Maps, Results & Documentation — Create the final maps, analyze the results, prepare visualizations and maintain the GitHub documentation. |
+
 
 ## Project Status
 
